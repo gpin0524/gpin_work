@@ -1,4 +1,7 @@
 200807
-  # npcms檔案下載 改名
+  # npcms檔案下載 改名----finish
     - 再輸入path的時候改名
     - emulate(以前可用 先試這個) v.s. assign(現在改用)
+
+  # 轉帳手續費計算
+    - 把return 丟成txt 要把前一個結果覆蓋掉
