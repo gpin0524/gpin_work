@@ -1,0 +1,5 @@
+## 專案升級流程 : 專案名稱修改英文方式
+ - 用 notepad++ 打開 dproj 檔
+ - ctrl + F 搜索"共用Function">>改成"Function"後儲存
+ - 把檔案名稱 "共用Function.dproj" "共用Function.resx" 也改成  "Function.dproj" "Function.resx"
+ - 修改完成後，原本 Refernce 的專案內部也會自動修改 完成
