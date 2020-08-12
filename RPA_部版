@@ -1,0 +1,8 @@
+## 部版流程
+ - 到conflence下載新版本 解壓縮到本地 open
+ - Administration > Solution Assignment > By Teams > "TSG01client0001" 找到流程 確認當前版本 ex. 00.000.000
+ - Project > Solution Propreties > 更改版本 ex. change 00.000.000 to 00.000.001 > Publish
+ - Administration > Solution Assignment > By Teams > "TSG01client0001" > 按加號 > 找到流程 > 勾選新版本 > 勾選 override
+ - 不!!要!!勾!!!Lond on Startup!! 這樣機器人一起動流程就會跑起來!!
+ - 確認是不是只有000000打勾
+ - 完成
